@@ -1,4 +1,4 @@
-#Amazon-esque reviews
+# Amazon-esque reviews
 
 *This is loosely based upon [Open Textbook Library](https://open.umn.edu/opentextbooks)'s [faculty reviews](https://open.umn.edu/opentextbooks/textbooks/reviewed). Students posted these reviews as comments in a private textbook blog page.*
 
