@@ -1,4 +1,4 @@
-#About this project
+# About this project
 
 In Spring 2018, the LaGuardia Community College Library department was awarded a New York State grant to train students to evaluate textbooks. The project was led by Professor Christopher McHale, with Professors Ian McDermott and Steven Ovadia serving on the project team, as well as Elizabeth Arestyl.
 
