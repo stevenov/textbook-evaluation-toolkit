@@ -13,7 +13,7 @@ This repository contains the material used during the seminar. We have chosen Ma
 * [pre](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/pre.survey.md) and [post surveys](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/post.survey.md)
 * [qualitative survey](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/qualitative.survey.md)
 * [quantitative survey](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/quantitative.survey.md)
-* [document outlining participant responsibilities](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/participant.responsiblities.md)
+* [document outlining participant responsibilities](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/participant.responsibilities.md)
 * [Amazon-esque review prompts](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/amazonesque.md)
 * [slides associated with the class](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/lessons) (in PowerPoint)
 
