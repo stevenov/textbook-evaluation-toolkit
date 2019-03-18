@@ -8,19 +8,19 @@ The seminar introduced students to the economics and politics of the textbook in
 
 This repository contains the material used during the seminar. We have chosen Markdown as the format, wherever possible, so that the work can easily be transformable, using either a [Markdown editor](https://opensource.com/article/18/11/markdown-editors) or [Pandoc](https://pandoc.org/):
 
-* class syllabus
-* final reflection
-* pre and post surveys
-* qualitative survey
-* quantitative survey
-* document outlining participant responsibilities
-* Amazon-esque review prompts
-* slides associated with the class (in PowerPoint)
+* [class syllabus](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/syllabus.md)
+* [final reflection](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/final.reflection.md)
+* [pre](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/pre.survey) and [post surveys](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/post.survey.md)
+* [qualitative survey](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/qualitative.survey.md)
+* [quantitative survey](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/quantitative.survey.md)
+* [document outlining participant responsibilities](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/participant.responsiblities.md)
+* [Amazon-esque review prompts](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/amazonesque.md)
+* [slides associated with the class](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/lessons) (in PowerPoint)
 
   * Week 1: An introduction to the project
   * Week 2: Publishing models
   * Week 3: Copyright  
 
-* handout on parts of a book
+* [handout on parts of a book](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/handouts)
 
 The goal of this project is to give faculty tools to help students evaluate the books being used in their classes. It is not expected that all of these tools will be used in a single class, but rather that faculty will use *some* of these tools to determine how textbooks are working, and not working, for their students.
