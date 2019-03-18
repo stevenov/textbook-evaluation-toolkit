@@ -1,4 +1,4 @@
-#Open Education Resource (OER) Textbook Seminar Participant
+# Open Education Resource (OER) Textbook Seminar Participant
 
 **Participant Responsibilities**  
 This project is funded by a grant from New York State. The purpose of the project is to train community college students to evaluate OER textbooks, with the goal of getting the voice of students into the OER textbook selection process.
