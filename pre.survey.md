@@ -1,4 +1,4 @@
-﻿#OER Textbook Evaluation Pre-Survey
+# OER Textbook Evaluation Pre-Survey
 
 Please complete the following survey for the Open Educational Resources Seminar. Our goal with this survey is to learn more about your prior experiences with textbooks at LaGuardia.  
 
