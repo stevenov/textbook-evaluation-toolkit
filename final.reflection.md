@@ -1,4 +1,4 @@
-#Final reflection
+# Final reflection
 
 *This seminar was hosted in the [CUNY Academic Commons](https://commons.gc.cuny.edu/). The blog for this seminar [is here](https://oerseminar.commons.gc.cuny.edu/).
 
