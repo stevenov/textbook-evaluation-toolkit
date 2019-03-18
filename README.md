@@ -10,7 +10,7 @@ This repository contains the material used during the seminar. We have chosen Ma
 
 * [class syllabus](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/syllabus.md)
 * [final reflection](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/final.reflection.md)
-* [pre](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/pre.survey) and [post surveys](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/post.survey.md)
+* [pre](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/pre.survey.md) and [post surveys](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/post.survey.md)
 * [qualitative survey](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/qualitative.survey.md)
 * [quantitative survey](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/quantitative.survey.md)
 * [document outlining participant responsibilities](https://github.com/stevenov/textbook-evaluation-toolkit/blob/master/participant.responsiblities.md)
