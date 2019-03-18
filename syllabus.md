@@ -1,4 +1,4 @@
-#Syllabus
+# Syllabus
 
 **Contact information:**
 
